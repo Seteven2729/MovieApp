@@ -1,0 +1,106 @@
+{
+  "movies": [
+    {
+      "name": "A Star Is Born",
+      "description": "A country music star whose career is starting to fade, Jackson Maine (Bradley Cooper) discovers a very talented talent in a young musician named Ally (Lady Gaga). Maine managed to orbit Ally into a promising young star. But the two of them are involved in a relationship that goes beyond just mentors and students. As Ally and himself skyrocketed, Maine ran into a dilemma regarding this matter.",
+      "imagePath": "1"
+    },
+    {
+      "name": "Alita: Battle Angel",
+      "description": "When Alita awakens with no memories of who she is in a future world she doesn't know, she is captured by Ido, a compassionate doctor who realizes that somewhere in the shell of this abandoned cyborg is the heart and soul of an extraordinary young woman.",
+      "imagePath": "2"
+    },
+    {
+      "name": "Aquaman",
+      "description": "Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne.",
+      "imagePath": "3"
+    },
+    {
+      "name": "Bohemian Rhapsody",
+      "description": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet - finding a way to keep the band together amid the success and excess.",
+      "imagePath": "4"
+    },
+    {
+      "name": "Cold Pursuit",
+      "description": "The quiet family life of Nels Coxman, a snowplow driver, is upended after his son's murder. Nels begins a vengeful hunt for Viking, the drug lord he holds responsible for the killing, eliminating Viking's associates one by one. As Nelsons draws closer to Viking, his actions bring even more unexpected and violent consequences, as he proves that revenge is all in the execution.",
+      "imagePath": "5"
+    },
+    {
+      "name": "Creed II",
+      "description": "Between personal obligations and training for his next big fight against an opponent with ties to his family's past, Adonis Creed is up against the challenge of his life.",
+      "imagePath": "6"
+    },
+    {
+      "name": "Fantastic Beasts: The Crimes of Grindelwald",
+      "description": "Gellert Grindelwald has escaped from prison and has begun gathering followers towards his goal - exalting witches above all non-magical creatures. The only one who can stop him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the witch who thwarted Grindelwald earlier, his former student, Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among true friends and family, in an increasingly divided wizarding world.",
+      "imagePath": "7"
+    },
+    {
+      "name": "Glass",
+      "description": "In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds critical secrets to both men.",
+      "imagePath": "8"
+    },
+    {
+      "name": "How to Train Your Dragon: The Hidden World",
+      "description": "When Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless' discovery of an untested and elusive partner drives Night Fury away. As the danger rises in the house and Hiccup's reign as village chief is put to the test, both the dragon and the rider must make the impossible decision to save their kind.",
+      "imagePath": "9"
+    },
+    {
+      "name": "Avengers: Infinity War",
+      "description": "As the Avengers and their allies continue to protect the world from threats too big for a single hero to handle, a new danger has emerged from the cosmic shadow: Thanos. An intergalactic blasphemy despot, his goal is to collect all six Infinity Stones, an unimaginable power artifact, and use them to inflict a twisted will on all realities. Everything the Avengers have fought for has evolved to date - the fate of Earth and existence itself has never been more certain.",
+      "imagePath": "10"
+    }
+  ],
+  "tvshow": [
+    {
+      "name": "The Arrow",
+      "description": "Arrow follows billionaire playboy Oliver Queen (Stephen Amell), who claimed to have spent five years shipwrecked on Lian Yu, a mysterious island in the North China Sea, before returning home to Starling City (later renamed Star City) to fight crime and corruption as a secret vigilante whose weapon of choice is a bow and arrow.",
+      "imagePath": "1"
+    },
+    {
+      "name": "Doom Patrol",
+      "description": "The Doom Patrol's members each horrible accidents that gave them superhuman abilities - but also left them scarred and disfigured. Traumatized and downtrodden, the team found purpose through The Chief, who brought them together to investigate the weirdest phenomena in existence - and to protect Earth from what they find.",
+      "imagePath": "2"
+    },
+    {
+      "name": "Dragon Ball",
+      "description": "Once upon a time in the mountains, a battle master known as Gohan came across a strange boy whom he named Goku. Gohan raised him and trained Goku in martial arts until he died. The young and very strong boy was alone, but easy to manage. Then one day, Goku meets a teenage girl named Bulma, whose search for dragon balls leads him to Goku's house. Together, they set out to find the seven dragon balls on an adventure that will change Goku's life forever. See how Goku met his lifelong friends Bulma, Yamcha, Krillin, Master Roshi and many more.",
+      "imagePath": "3"
+    },
+    {
+      "name": "Fairy Tail",
+      "description": "Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting Harujion Town, she meets Natsu, a young man who gets sick easily by any type of transportation. But Natsu isn't just any ordinary kid, he's a member of one of the world's most infamous mage guilds: Fairy Tail.",
+      "imagePath": "4"
+    },
+    {
+      "name": "Family Guy",
+      "description": "The sick, twisted and wrong animated animated series Freakin 'Sweet, features the adventures of the dysfunctional Griffin family. Clumsy Peter and long-suffering Lois have three children. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and most unpopular girl in town) and Chris (middle child, she is not very smart but has a passion for movies). The last member of the family is Brian - a talking dog and more than just a pet, he looks after Stewie, while sipping Martinis and sorting out his own life problems.",
+      "imagePath": "5"
+    },
+    {
+      "name": "The Flash",
+      "description": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Several months later he awakens with the power of superhuman speed, giving him the ability to move through Central City like an invisible guardian angel. Although initially delighted by his new powers, Barry is surprised to find that he is not the only meta-human created after the accelerator explosion - and not everyone is using their new powers for good. Barry is partnered with STAR Lab and dedicates his life to protecting the innocent.",
+      "imagePath": "6"
+    },
+    {
+      "name": "Game of Thrones",
+      "description": "Seven noble families fight for control of the mythical land of Westeros. The friction between the houses led to a full-scale war. All the while a very ancient evil awakens in the farthest north. In the midst of war, the neglected military command, the Night's Watch, is what stands between the human realm and the horrors of the ice beyond.",
+      "imagePath": "7"
+    },
+    {
+      "name": "Gotham",
+      "description": "Everyone knows Commissioner Gordon's name. He was one of the world's greatest enemies of crime, a man whose reputation was synonymous with law and order. But what is known about Gordon's story and his ascension from novice detective to Police Commissioner? What does it take to navigate the various layers of corruption that surreptitiously rule Gotham City, the home of the world's most iconic criminals? And what circumstances created them - the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?",
+      "imagePath": "8"
+    },
+    {
+      "name": "Grey's Anatomy",
+      "description": "Follow the personal and professional lives of a group of doctors at the Gray Sloan Memorial Hospital in Seattle.",
+      "imagePath": "9"
+    },
+    {
+      "name": "Hanna",
+      "description": "This thriller and coming-of-age drama follows the journey of an extraordinary young girl as she evades the relentless pursuit of an off-book CIA agent and tries to unearth the truth behind who she is. Based on the 2011 Joe Wright film.",
+      "imagePath": "10"
+    }
+  ]
+}
